@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Architect+%26+AI+Systems+Engineer;Autonomous+AI+Agents+%26+RAG+Pipelines+(Python);High-Concurrency+Microservices+(Go)+%26+APIs+(PHP)" alt="Typing SVG" />
   </a>
 
+  <!-- OPCIONAL: Reemplaza estos enlaces con tus redes reales o elimina los que no uses -->
   <p align="center">
     <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,8 +13,8 @@
     <a href="https://x.com/TU_TWITTER" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
-    <a href="https://TU_PORTAFOLIO.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://github.com/tesleAme02" target="_blank"> <!-- ✅ CORREGIDO: enlace directo a tu perfil -->
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:TU_CORREO@dominio.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -153,10 +154,13 @@ Backend & AI Engineer specialized in designing **scalable distributed systems**,
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tesleAme02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> <!-- ✅ CORREGIDO: username=tesleAme02 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesleAme02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" /> <!-- ✅ CORREGIDO: username=tesleAme02 -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesleAme02&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <!-- ✅ CORREGIDO: user=tesleAme02 -->
 </div>
+
+
+
